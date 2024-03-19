@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 django = ">=2.2"
-django-ledger = ">=0.5.5.5"
+django-ledger = "0.0.3"
 fpdf2 = "*"
 
 [dev-packages]
